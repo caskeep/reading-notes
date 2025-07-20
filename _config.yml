@@ -3,6 +3,11 @@ description: "My personal reading notes"
 baseurl: "/reading-notes"
 url: "https://caskeep.github.io"
 theme: minima
+
+header_pages:
+  - index.md
+  - blog.md
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
