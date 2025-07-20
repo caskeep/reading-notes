@@ -6,7 +6,7 @@ theme: minima
 
 header_pages:
   - index.md
-  - blog.md
+  - all-posts.md
 
 plugins:
   - jekyll-feed
