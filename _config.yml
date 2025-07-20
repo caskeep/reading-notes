@@ -1,0 +1,10 @@
+title: "caskeep's Reading Notes"
+description: "My personal reading notes powered by GitHub Pages and Jekyll"
+baseurl: "/reading-notes"  # 如果用项目页，填仓库名
+url: "https://caskeep.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

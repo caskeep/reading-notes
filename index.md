@@ -1,2 +1,7 @@
-# Welcome to My Reading Notes
-This site is powered by GitHub Pages.
+---
+layout: home
+title: 我的读书笔记
+---
+
+欢迎来到我的读书笔记！  
+这里是公开分享的内容。
